@@ -2,7 +2,7 @@
 
 # Title       : ipresent-flask
 # Filename    : ipresent-flask.sh
-# Version     : 1.0
+# Version     : 1.1
 # Created     : 2018-04-04
 # Modified    : 2018-04-04
 # Author      : Matthew Wetton
